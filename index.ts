@@ -1,7 +1,7 @@
 #! /usr/bin/env node
 import inquirer from "inquirer";
 
-let currencies : any= {
+const currencies : any= {
 USD : 1 , //Base Currency
 EUR : 0.94 ,
 INR : 83.44 ,
